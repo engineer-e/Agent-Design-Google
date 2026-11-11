@@ -1,0 +1,1017 @@
+{
+  "cache_signature": "033365f7c0649c7ae694fa0a8d915919edf1a764c4f736cf777c7c43de63b93c",
+  "sample_rate": 24000,
+  "duration": 83.925,
+  "word_timings": [
+    {
+      "text": "Why",
+      "start": 0.2,
+      "end": 0.4
+    },
+    {
+      "text": "Patterns",
+      "start": 0.4,
+      "end": 0.875
+    },
+    {
+      "text": "Matter",
+      "start": 0.875,
+      "end": 1.25
+    },
+    {
+      "text": "in",
+      "start": 1.25,
+      "end": 1.4125
+    },
+    {
+      "text": "Agent",
+      "start": 1.4125,
+      "end": 1.75
+    },
+    {
+      "text": "Development",
+      "start": 1.75,
+      "end": 2.625
+    },
+    {
+      "text": "This",
+      "start": 3.0250000000000004,
+      "end": 3.2
+    },
+    {
+      "text": "complexity",
+      "start": 3.2,
+      "end": 3.825
+    },
+    {
+      "text": "is",
+      "start": 3.825,
+      "end": 3.975
+    },
+    {
+      "text": "precisely",
+      "start": 3.975,
+      "end": 4.75
+    },
+    {
+      "text": "why",
+      "start": 4.75,
+      "end": 4.9625
+    },
+    {
+      "text": "agentic",
+      "start": 4.9625,
+      "end": 5.45
+    },
+    {
+      "text": "design",
+      "start": 5.45,
+      "end": 5.875
+    },
+    {
+      "text": "patterns",
+      "start": 5.875,
+      "end": 6.35
+    },
+    {
+      "text": "are",
+      "start": 6.35,
+      "end": 6.5
+    },
+    {
+      "text": "indispensable.",
+      "start": 6.5,
+      "end": 7.75
+    },
+    {
+      "text": "They",
+      "start": 8.05,
+      "end": 8.175
+    },
+    {
+      "text": "are",
+      "start": 8.175,
+      "end": 8.275
+    },
+    {
+      "text": "not",
+      "start": 8.275,
+      "end": 8.525
+    },
+    {
+      "text": "rigid",
+      "start": 8.525,
+      "end": 8.8
+    },
+    {
+      "text": "rules,",
+      "start": 8.8,
+      "end": 9.525
+    },
+    {
+      "text": "but",
+      "start": 9.525,
+      "end": 9.675
+    },
+    {
+      "text": "rather",
+      "start": 9.675,
+      "end": 9.950000000000001
+    },
+    {
+      "text": "battle-tested",
+      "start": 9.950000000000001,
+      "end": 10.700000000000001
+    },
+    {
+      "text": "templates",
+      "start": 10.700000000000001,
+      "end": 11.175
+    },
+    {
+      "text": "or",
+      "start": 11.175,
+      "end": 11.3375
+    },
+    {
+      "text": "blueprints",
+      "start": 11.3375,
+      "end": 11.975000000000001
+    },
+    {
+      "text": "that",
+      "start": 11.975000000000001,
+      "end": 12.125
+    },
+    {
+      "text": "offer",
+      "start": 12.125,
+      "end": 12.4625
+    },
+    {
+      "text": "proven",
+      "start": 12.4625,
+      "end": 12.8
+    },
+    {
+      "text": "approaches",
+      "start": 12.8,
+      "end": 13.275
+    },
+    {
+      "text": "to",
+      "start": 13.275,
+      "end": 13.4
+    },
+    {
+      "text": "standard",
+      "start": 13.4,
+      "end": 13.775
+    },
+    {
+      "text": "design",
+      "start": 13.775,
+      "end": 14.25
+    },
+    {
+      "text": "and",
+      "start": 14.25,
+      "end": 14.3625
+    },
+    {
+      "text": "implementation",
+      "start": 14.3625,
+      "end": 15.100000000000001
+    },
+    {
+      "text": "challenges",
+      "start": 15.100000000000001,
+      "end": 15.675
+    },
+    {
+      "text": "in",
+      "start": 15.675,
+      "end": 15.7625
+    },
+    {
+      "text": "the",
+      "start": 15.7625,
+      "end": 15.8875
+    },
+    {
+      "text": "agentic",
+      "start": 15.8875,
+      "end": 16.35
+    },
+    {
+      "text": "domain.",
+      "start": 16.35,
+      "end": 17.275000000000002
+    },
+    {
+      "text": "By",
+      "start": 17.55,
+      "end": 17.7
+    },
+    {
+      "text": "recognizing",
+      "start": 17.7,
+      "end": 18.4
+    },
+    {
+      "text": "and",
+      "start": 18.4,
+      "end": 18.5125
+    },
+    {
+      "text": "applying",
+      "start": 18.5125,
+      "end": 18.925
+    },
+    {
+      "text": "these",
+      "start": 18.925,
+      "end": 19.15
+    },
+    {
+      "text": "design",
+      "start": 19.15,
+      "end": 19.5
+    },
+    {
+      "text": "patterns,",
+      "start": 19.5,
+      "end": 20.3
+    },
+    {
+      "text": "you",
+      "start": 20.3,
+      "end": 20.425
+    },
+    {
+      "text": "gain",
+      "start": 20.425,
+      "end": 20.6625
+    },
+    {
+      "text": "access",
+      "start": 20.6625,
+      "end": 21.125
+    },
+    {
+      "text": "to",
+      "start": 21.125,
+      "end": 21.25
+    },
+    {
+      "text": "solutions",
+      "start": 21.25,
+      "end": 21.8
+    },
+    {
+      "text": "that",
+      "start": 21.8,
+      "end": 21.9375
+    },
+    {
+      "text": "enhance",
+      "start": 21.9375,
+      "end": 22.375
+    },
+    {
+      "text": "the",
+      "start": 22.375,
+      "end": 22.475
+    },
+    {
+      "text": "structure,",
+      "start": 22.475,
+      "end": 23.1125
+    },
+    {
+      "text": "maintainability,",
+      "start": 23.1125,
+      "end": 24.125
+    },
+    {
+      "text": "reliability,",
+      "start": 24.125,
+      "end": 25.025
+    },
+    {
+      "text": "and",
+      "start": 25.025,
+      "end": 25.1375
+    },
+    {
+      "text": "efficiency",
+      "start": 25.1375,
+      "end": 25.6875
+    },
+    {
+      "text": "of",
+      "start": 25.6875,
+      "end": 25.7625
+    },
+    {
+      "text": "the",
+      "start": 25.7625,
+      "end": 25.9
+    },
+    {
+      "text": "agents",
+      "start": 25.9,
+      "end": 26.275
+    },
+    {
+      "text": "you",
+      "start": 26.275,
+      "end": 26.425
+    },
+    {
+      "text": "build",
+      "start": 26.425,
+      "end": 26.6625
+    },
+    {
+      "text": "on",
+      "start": 26.6625,
+      "end": 26.7625
+    },
+    {
+      "text": "your",
+      "start": 26.7625,
+      "end": 26.875
+    },
+    {
+      "text": "canvas.",
+      "start": 26.875,
+      "end": 27.8
+    },
+    {
+      "text": "Using",
+      "start": 28.099999999999998,
+      "end": 28.45
+    },
+    {
+      "text": "design",
+      "start": 28.45,
+      "end": 28.825
+    },
+    {
+      "text": "patterns",
+      "start": 28.825,
+      "end": 29.3875
+    },
+    {
+      "text": "helps",
+      "start": 29.3875,
+      "end": 29.65
+    },
+    {
+      "text": "you",
+      "start": 29.65,
+      "end": 29.799999999999997
+    },
+    {
+      "text": "avoid",
+      "start": 29.799999999999997,
+      "end": 30.2
+    },
+    {
+      "text": "reinventing",
+      "start": 30.2,
+      "end": 30.787499999999998
+    },
+    {
+      "text": "fundamental",
+      "start": 30.787499999999998,
+      "end": 31.325
+    },
+    {
+      "text": "solutions",
+      "start": 31.325,
+      "end": 31.849999999999998
+    },
+    {
+      "text": "for",
+      "start": 31.849999999999998,
+      "end": 31.987499999999997
+    },
+    {
+      "text": "tasks",
+      "start": 31.987499999999997,
+      "end": 32.4625
+    },
+    {
+      "text": "like",
+      "start": 32.4625,
+      "end": 32.675
+    },
+    {
+      "text": "managing",
+      "start": 32.675,
+      "end": 33.125
+    },
+    {
+      "text": "conversational",
+      "start": 33.125,
+      "end": 33.8625
+    },
+    {
+      "text": "flow,",
+      "start": 33.8625,
+      "end": 34.574999999999996
+    },
+    {
+      "text": "integrating",
+      "start": 34.574999999999996,
+      "end": 35.15
+    },
+    {
+      "text": "external",
+      "start": 35.15,
+      "end": 35.574999999999996
+    },
+    {
+      "text": "capabilities,",
+      "start": 35.574999999999996,
+      "end": 36.625
+    },
+    {
+      "text": "or",
+      "start": 36.625,
+      "end": 36.787499999999994
+    },
+    {
+      "text": "coordinating",
+      "start": 36.787499999999994,
+      "end": 37.4375
+    },
+    {
+      "text": "multiple",
+      "start": 37.4375,
+      "end": 37.925
+    },
+    {
+      "text": "agent",
+      "start": 37.925,
+      "end": 38.224999999999994
+    },
+    {
+      "text": "actions.",
+      "start": 38.224999999999994,
+      "end": 39.2
+    },
+    {
+      "text": "They",
+      "start": 39.5,
+      "end": 39.625
+    },
+    {
+      "text": "provide",
+      "start": 39.625,
+      "end": 39.9625
+    },
+    {
+      "text": "a",
+      "start": 39.9625,
+      "end": 40.037499999999994
+    },
+    {
+      "text": "common",
+      "start": 40.037499999999994,
+      "end": 40.425
+    },
+    {
+      "text": "language",
+      "start": 40.425,
+      "end": 40.8125
+    },
+    {
+      "text": "and",
+      "start": 40.8125,
+      "end": 40.925
+    },
+    {
+      "text": "structure",
+      "start": 40.925,
+      "end": 41.4
+    },
+    {
+      "text": "that",
+      "start": 41.4,
+      "end": 41.537499999999994
+    },
+    {
+      "text": "makes",
+      "start": 41.537499999999994,
+      "end": 41.762499999999996
+    },
+    {
+      "text": "your",
+      "start": 41.762499999999996,
+      "end": 41.9
+    },
+    {
+      "text": "agent's",
+      "start": 41.9,
+      "end": 42.3
+    },
+    {
+      "text": "logic",
+      "start": 42.3,
+      "end": 42.65
+    },
+    {
+      "text": "clearer",
+      "start": 42.65,
+      "end": 43.074999999999996
+    },
+    {
+      "text": "and",
+      "start": 43.074999999999996,
+      "end": 43.2125
+    },
+    {
+      "text": "easier",
+      "start": 43.2125,
+      "end": 43.65
+    },
+    {
+      "text": "for",
+      "start": 43.65,
+      "end": 43.8
+    },
+    {
+      "text": "others",
+      "start": 43.8,
+      "end": 44.275
+    },
+    {
+      "text": "(and",
+      "start": 44.275,
+      "end": 44.4375
+    },
+    {
+      "text": "yourself",
+      "start": 44.4375,
+      "end": 44.8125
+    },
+    {
+      "text": "in",
+      "start": 44.8125,
+      "end": 44.887499999999996
+    },
+    {
+      "text": "the",
+      "start": 44.887499999999996,
+      "end": 44.974999999999994
+    },
+    {
+      "text": "future)",
+      "start": 44.974999999999994,
+      "end": 45.699999999999996
+    },
+    {
+      "text": "to",
+      "start": 45.699999999999996,
+      "end": 45.824999999999996
+    },
+    {
+      "text": "understand",
+      "start": 45.824999999999996,
+      "end": 46.4
+    },
+    {
+      "text": "and",
+      "start": 46.4,
+      "end": 46.512499999999996
+    },
+    {
+      "text": "maintain.",
+      "start": 46.512499999999996,
+      "end": 47.525
+    },
+    {
+      "text": "Implementing",
+      "start": 47.8,
+      "end": 48.275
+    },
+    {
+      "text": "patterns",
+      "start": 48.275,
+      "end": 48.75
+    },
+    {
+      "text": "designed",
+      "start": 48.75,
+      "end": 49.175
+    },
+    {
+      "text": "for",
+      "start": 49.175,
+      "end": 49.3375
+    },
+    {
+      "text": "error",
+      "start": 49.3375,
+      "end": 49.65
+    },
+    {
+      "text": "handling",
+      "start": 49.65,
+      "end": 50.125
+    },
+    {
+      "text": "or",
+      "start": 50.125,
+      "end": 50.275
+    },
+    {
+      "text": "state",
+      "start": 50.275,
+      "end": 50.525
+    },
+    {
+      "text": "management",
+      "start": 50.525,
+      "end": 51.325
+    },
+    {
+      "text": "directly",
+      "start": 51.325,
+      "end": 51.875
+    },
+    {
+      "text": "contributes",
+      "start": 51.875,
+      "end": 52.4
+    },
+    {
+      "text": "to",
+      "start": 52.4,
+      "end": 52.5
+    },
+    {
+      "text": "building",
+      "start": 52.5,
+      "end": 52.85
+    },
+    {
+      "text": "more",
+      "start": 52.85,
+      "end": 53.075
+    },
+    {
+      "text": "robust",
+      "start": 53.075,
+      "end": 53.6625
+    },
+    {
+      "text": "and",
+      "start": 53.6625,
+      "end": 53.8
+    },
+    {
+      "text": "reliable",
+      "start": 53.8,
+      "end": 54.35
+    },
+    {
+      "text": "systems.",
+      "start": 54.35,
+      "end": 55.275
+    },
+    {
+      "text": "Leveraging",
+      "start": 55.6,
+      "end": 56.05
+    },
+    {
+      "text": "these",
+      "start": 56.05,
+      "end": 56.275
+    },
+    {
+      "text": "established",
+      "start": 56.275,
+      "end": 56.8375
+    },
+    {
+      "text": "approaches",
+      "start": 56.8375,
+      "end": 57.4625
+    },
+    {
+      "text": "accelerates",
+      "start": 57.4625,
+      "end": 58.1125
+    },
+    {
+      "text": "your",
+      "start": 58.1125,
+      "end": 58.225
+    },
+    {
+      "text": "development",
+      "start": 58.225,
+      "end": 58.7
+    },
+    {
+      "text": "process,",
+      "start": 58.7,
+      "end": 59.6375
+    },
+    {
+      "text": "allowing",
+      "start": 59.6375,
+      "end": 60.05
+    },
+    {
+      "text": "you",
+      "start": 60.05,
+      "end": 60.2
+    },
+    {
+      "text": "to",
+      "start": 60.2,
+      "end": 60.3375
+    },
+    {
+      "text": "focus",
+      "start": 60.3375,
+      "end": 60.7125
+    },
+    {
+      "text": "on",
+      "start": 60.7125,
+      "end": 60.8125
+    },
+    {
+      "text": "the",
+      "start": 60.8125,
+      "end": 60.9
+    },
+    {
+      "text": "unique",
+      "start": 60.9,
+      "end": 61.3125
+    },
+    {
+      "text": "aspects",
+      "start": 61.3125,
+      "end": 61.7625
+    },
+    {
+      "text": "of",
+      "start": 61.7625,
+      "end": 61.8375
+    },
+    {
+      "text": "your",
+      "start": 61.8375,
+      "end": 61.95
+    },
+    {
+      "text": "application",
+      "start": 61.95,
+      "end": 62.875
+    },
+    {
+      "text": "rather",
+      "start": 62.875,
+      "end": 63.2125
+    },
+    {
+      "text": "than",
+      "start": 63.2125,
+      "end": 63.3125
+    },
+    {
+      "text": "the",
+      "start": 63.3125,
+      "end": 63.4
+    },
+    {
+      "text": "foundational",
+      "start": 63.4,
+      "end": 64.0625
+    },
+    {
+      "text": "mechanics",
+      "start": 64.0625,
+      "end": 64.5875
+    },
+    {
+      "text": "of",
+      "start": 64.5875,
+      "end": 64.675
+    },
+    {
+      "text": "agent",
+      "start": 64.675,
+      "end": 64.9875
+    },
+    {
+      "text": "behavior.",
+      "start": 64.9875,
+      "end": 65.975
+    },
+    {
+      "text": "This",
+      "start": 66.275,
+      "end": 66.47500000000001
+    },
+    {
+      "text": "book",
+      "start": 66.47500000000001,
+      "end": 66.7
+    },
+    {
+      "text": "extracts",
+      "start": 66.7,
+      "end": 67.2
+    },
+    {
+      "text": "21",
+      "start": 67.2,
+      "end": 67.7375
+    },
+    {
+      "text": "key",
+      "start": 67.7375,
+      "end": 67.95
+    },
+    {
+      "text": "design",
+      "start": 67.95,
+      "end": 68.3
+    },
+    {
+      "text": "patterns",
+      "start": 68.3,
+      "end": 69.025
+    },
+    {
+      "text": "that",
+      "start": 69.025,
+      "end": 69.175
+    },
+    {
+      "text": "represent",
+      "start": 69.175,
+      "end": 69.6875
+    },
+    {
+      "text": "fundamental",
+      "start": 69.6875,
+      "end": 70.25
+    },
+    {
+      "text": "building",
+      "start": 70.25,
+      "end": 70.575
+    },
+    {
+      "text": "blocks",
+      "start": 70.575,
+      "end": 70.91250000000001
+    },
+    {
+      "text": "and",
+      "start": 70.91250000000001,
+      "end": 71.025
+    },
+    {
+      "text": "techniques",
+      "start": 71.025,
+      "end": 71.8875
+    },
+    {
+      "text": "for",
+      "start": 71.8875,
+      "end": 72.025
+    },
+    {
+      "text": "constructing",
+      "start": 72.025,
+      "end": 72.575
+    },
+    {
+      "text": "sophisticated",
+      "start": 72.575,
+      "end": 73.275
+    },
+    {
+      "text": "agents",
+      "start": 73.275,
+      "end": 73.75
+    },
+    {
+      "text": "on",
+      "start": 73.75,
+      "end": 73.9625
+    },
+    {
+      "text": "various",
+      "start": 73.9625,
+      "end": 74.4
+    },
+    {
+      "text": "technical",
+      "start": 74.4,
+      "end": 74.875
+    },
+    {
+      "text": "canvases.",
+      "start": 74.875,
+      "end": 75.97500000000001
+    },
+    {
+      "text": "Understanding",
+      "start": 76.25,
+      "end": 77.0
+    },
+    {
+      "text": "and",
+      "start": 77.0,
+      "end": 77.1125
+    },
+    {
+      "text": "applying",
+      "start": 77.1125,
+      "end": 77.55
+    },
+    {
+      "text": "these",
+      "start": 77.55,
+      "end": 77.775
+    },
+    {
+      "text": "patterns",
+      "start": 77.775,
+      "end": 78.4
+    },
+    {
+      "text": "will",
+      "start": 78.4,
+      "end": 78.55
+    },
+    {
+      "text": "significantly",
+      "start": 78.55,
+      "end": 79.2375
+    },
+    {
+      "text": "elevate",
+      "start": 79.2375,
+      "end": 79.675
+    },
+    {
+      "text": "your",
+      "start": 79.675,
+      "end": 79.8
+    },
+    {
+      "text": "ability",
+      "start": 79.8,
+      "end": 80.25
+    },
+    {
+      "text": "to",
+      "start": 80.25,
+      "end": 80.35000000000001
+    },
+    {
+      "text": "design",
+      "start": 80.35000000000001,
+      "end": 81.175
+    },
+    {
+      "text": "and",
+      "start": 81.175,
+      "end": 81.3375
+    },
+    {
+      "text": "implement",
+      "start": 81.3375,
+      "end": 81.775
+    },
+    {
+      "text": "intelligent",
+      "start": 81.775,
+      "end": 82.35000000000001
+    },
+    {
+      "text": "systems",
+      "start": 82.35000000000001,
+      "end": 82.75
+    },
+    {
+      "text": "effectively.",
+      "start": 82.75,
+      "end": 83.825
+    }
+  ]
+}

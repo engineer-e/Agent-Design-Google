@@ -1,0 +1,1767 @@
+{
+  "cache_signature": "5d9fc21af648a18a68dff3e6009413ffcafa050ef060c61e9fb0ae9f8e561e5d",
+  "sample_rate": 24000,
+  "duration": 129.8,
+  "word_timings": [
+    {
+      "text": "Foreword.",
+      "start": 0.225,
+      "end": 1.025
+    },
+    {
+      "text": "The",
+      "start": 1.325,
+      "end": 1.4375
+    },
+    {
+      "text": "field",
+      "start": 1.4375,
+      "end": 1.7125
+    },
+    {
+      "text": "of",
+      "start": 1.7125,
+      "end": 1.825
+    },
+    {
+      "text": "artificial",
+      "start": 1.825,
+      "end": 2.3625
+    },
+    {
+      "text": "intelligence",
+      "start": 2.3625,
+      "end": 3.1625
+    },
+    {
+      "text": "is",
+      "start": 3.1625,
+      "end": 3.325
+    },
+    {
+      "text": "at",
+      "start": 3.325,
+      "end": 3.4125
+    },
+    {
+      "text": "a",
+      "start": 3.4125,
+      "end": 3.525
+    },
+    {
+      "text": "fascinating",
+      "start": 3.525,
+      "end": 4.225
+    },
+    {
+      "text": "inflection",
+      "start": 4.225,
+      "end": 4.75
+    },
+    {
+      "text": "point.",
+      "start": 4.75,
+      "end": 5.5
+    },
+    {
+      "text": "We",
+      "start": 5.8,
+      "end": 5.925
+    },
+    {
+      "text": "are",
+      "start": 5.925,
+      "end": 6.05
+    },
+    {
+      "text": "moving",
+      "start": 6.05,
+      "end": 6.375
+    },
+    {
+      "text": "beyond",
+      "start": 6.375,
+      "end": 6.8
+    },
+    {
+      "text": "building",
+      "start": 6.8,
+      "end": 7.125
+    },
+    {
+      "text": "models",
+      "start": 7.125,
+      "end": 7.55
+    },
+    {
+      "text": "that",
+      "start": 7.55,
+      "end": 7.6875
+    },
+    {
+      "text": "can",
+      "start": 7.6875,
+      "end": 7.8625
+    },
+    {
+      "text": "simply",
+      "start": 7.8625,
+      "end": 8.2
+    },
+    {
+      "text": "process",
+      "start": 8.2,
+      "end": 8.6375
+    },
+    {
+      "text": "information",
+      "start": 8.6375,
+      "end": 9.25
+    },
+    {
+      "text": "to",
+      "start": 9.25,
+      "end": 9.375
+    },
+    {
+      "text": "creating",
+      "start": 9.375,
+      "end": 9.8
+    },
+    {
+      "text": "intelligent",
+      "start": 9.8,
+      "end": 10.375
+    },
+    {
+      "text": "systems",
+      "start": 10.375,
+      "end": 11.1625
+    },
+    {
+      "text": "that",
+      "start": 11.1625,
+      "end": 11.325
+    },
+    {
+      "text": "can",
+      "start": 11.325,
+      "end": 11.5375
+    },
+    {
+      "text": "reason,",
+      "start": 11.5375,
+      "end": 12.1625
+    },
+    {
+      "text": "plan,",
+      "start": 12.1625,
+      "end": 12.7
+    },
+    {
+      "text": "and",
+      "start": 12.7,
+      "end": 12.837499999999999
+    },
+    {
+      "text": "act",
+      "start": 12.837499999999999,
+      "end": 13.1
+    },
+    {
+      "text": "to",
+      "start": 13.1,
+      "end": 13.225
+    },
+    {
+      "text": "achieve",
+      "start": 13.225,
+      "end": 13.55
+    },
+    {
+      "text": "complex",
+      "start": 13.55,
+      "end": 14.075
+    },
+    {
+      "text": "goals",
+      "start": 14.075,
+      "end": 14.3875
+    },
+    {
+      "text": "with",
+      "start": 14.3875,
+      "end": 14.525
+    },
+    {
+      "text": "ambiguous",
+      "start": 14.525,
+      "end": 15.075
+    },
+    {
+      "text": "tasks.",
+      "start": 15.075,
+      "end": 16.025
+    },
+    {
+      "text": "These",
+      "start": 16.325,
+      "end": 16.5625
+    },
+    {
+      "text": "\"agentic\"",
+      "start": 16.5625,
+      "end": 17.075
+    },
+    {
+      "text": "systems,",
+      "start": 17.075,
+      "end": 17.7625
+    },
+    {
+      "text": "as",
+      "start": 17.7625,
+      "end": 17.9
+    },
+    {
+      "text": "this",
+      "start": 17.9,
+      "end": 18.1
+    },
+    {
+      "text": "book",
+      "start": 18.1,
+      "end": 18.325
+    },
+    {
+      "text": "so",
+      "start": 18.325,
+      "end": 18.5125
+    },
+    {
+      "text": "aptly",
+      "start": 18.5125,
+      "end": 18.9
+    },
+    {
+      "text": "describes",
+      "start": 18.9,
+      "end": 19.3875
+    },
+    {
+      "text": "them,",
+      "start": 19.3875,
+      "end": 19.775
+    },
+    {
+      "text": "represent",
+      "start": 19.775,
+      "end": 20.2375
+    },
+    {
+      "text": "the",
+      "start": 20.2375,
+      "end": 20.325
+    },
+    {
+      "text": "next",
+      "start": 20.325,
+      "end": 20.6
+    },
+    {
+      "text": "frontier",
+      "start": 20.6,
+      "end": 21.05
+    },
+    {
+      "text": "in",
+      "start": 21.05,
+      "end": 21.2
+    },
+    {
+      "text": "AI,",
+      "start": 21.2,
+      "end": 22.0
+    },
+    {
+      "text": "and",
+      "start": 22.0,
+      "end": 22.1125
+    },
+    {
+      "text": "their",
+      "start": 22.1125,
+      "end": 22.225
+    },
+    {
+      "text": "development",
+      "start": 22.225,
+      "end": 22.775
+    },
+    {
+      "text": "is",
+      "start": 22.775,
+      "end": 22.8875
+    },
+    {
+      "text": "a",
+      "start": 22.8875,
+      "end": 22.9875
+    },
+    {
+      "text": "challenge",
+      "start": 22.9875,
+      "end": 23.425
+    },
+    {
+      "text": "that",
+      "start": 23.425,
+      "end": 23.575
+    },
+    {
+      "text": "excites",
+      "start": 23.575,
+      "end": 24.075
+    },
+    {
+      "text": "and",
+      "start": 24.075,
+      "end": 24.1875
+    },
+    {
+      "text": "inspires",
+      "start": 24.1875,
+      "end": 24.7375
+    },
+    {
+      "text": "us",
+      "start": 24.7375,
+      "end": 24.9
+    },
+    {
+      "text": "at",
+      "start": 24.9,
+      "end": 25.0
+    },
+    {
+      "text": "Google.",
+      "start": 25.0,
+      "end": 25.8
+    },
+    {
+      "text": "\"Agentic",
+      "start": 26.075,
+      "end": 26.599999999999998
+    },
+    {
+      "text": "Design",
+      "start": 26.599999999999998,
+      "end": 27.025
+    },
+    {
+      "text": "Patterns:",
+      "start": 27.025,
+      "end": 27.849999999999998
+    },
+    {
+      "text": "A",
+      "start": 27.849999999999998,
+      "end": 27.95
+    },
+    {
+      "text": "Hands-On",
+      "start": 27.95,
+      "end": 28.474999999999998
+    },
+    {
+      "text": "Guide",
+      "start": 28.474999999999998,
+      "end": 28.75
+    },
+    {
+      "text": "to",
+      "start": 28.75,
+      "end": 28.849999999999998
+    },
+    {
+      "text": "Building",
+      "start": 28.849999999999998,
+      "end": 29.174999999999997
+    },
+    {
+      "text": "Intelligent",
+      "start": 29.174999999999997,
+      "end": 29.75
+    },
+    {
+      "text": "Systems\"",
+      "start": 29.75,
+      "end": 30.537499999999998
+    },
+    {
+      "text": "arrives",
+      "start": 30.537499999999998,
+      "end": 30.9625
+    },
+    {
+      "text": "at",
+      "start": 30.9625,
+      "end": 31.037499999999998
+    },
+    {
+      "text": "the",
+      "start": 31.037499999999998,
+      "end": 31.125
+    },
+    {
+      "text": "perfect",
+      "start": 31.125,
+      "end": 31.525
+    },
+    {
+      "text": "moment",
+      "start": 31.525,
+      "end": 31.825
+    },
+    {
+      "text": "to",
+      "start": 31.825,
+      "end": 31.95
+    },
+    {
+      "text": "guide",
+      "start": 31.95,
+      "end": 32.1875
+    },
+    {
+      "text": "us",
+      "start": 32.1875,
+      "end": 32.3375
+    },
+    {
+      "text": "on",
+      "start": 32.3375,
+      "end": 32.4625
+    },
+    {
+      "text": "this",
+      "start": 32.4625,
+      "end": 32.625
+    },
+    {
+      "text": "journey.",
+      "start": 32.625,
+      "end": 33.449999999999996
+    },
+    {
+      "text": "The",
+      "start": 33.75,
+      "end": 33.824999999999996
+    },
+    {
+      "text": "book",
+      "start": 33.824999999999996,
+      "end": 34.0625
+    },
+    {
+      "text": "rightly",
+      "start": 34.0625,
+      "end": 34.4
+    },
+    {
+      "text": "points",
+      "start": 34.4,
+      "end": 34.6875
+    },
+    {
+      "text": "out",
+      "start": 34.6875,
+      "end": 34.875
+    },
+    {
+      "text": "that",
+      "start": 34.875,
+      "end": 35.012499999999996
+    },
+    {
+      "text": "the",
+      "start": 35.012499999999996,
+      "end": 35.099999999999994
+    },
+    {
+      "text": "power",
+      "start": 35.099999999999994,
+      "end": 35.4625
+    },
+    {
+      "text": "of",
+      "start": 35.4625,
+      "end": 35.574999999999996
+    },
+    {
+      "text": "large",
+      "start": 35.574999999999996,
+      "end": 35.9
+    },
+    {
+      "text": "language",
+      "start": 35.9,
+      "end": 36.275
+    },
+    {
+      "text": "models,",
+      "start": 36.275,
+      "end": 37.05
+    },
+    {
+      "text": "the",
+      "start": 37.05,
+      "end": 37.15
+    },
+    {
+      "text": "cognitive",
+      "start": 37.15,
+      "end": 37.675
+    },
+    {
+      "text": "engines",
+      "start": 37.675,
+      "end": 38.0625
+    },
+    {
+      "text": "of",
+      "start": 38.0625,
+      "end": 38.137499999999996
+    },
+    {
+      "text": "these",
+      "start": 38.137499999999996,
+      "end": 38.349999999999994
+    },
+    {
+      "text": "agents,",
+      "start": 38.349999999999994,
+      "end": 39.074999999999996
+    },
+    {
+      "text": "must",
+      "start": 39.074999999999996,
+      "end": 39.287499999999994
+    },
+    {
+      "text": "be",
+      "start": 39.287499999999994,
+      "end": 39.425
+    },
+    {
+      "text": "harnessed",
+      "start": 39.425,
+      "end": 39.8375
+    },
+    {
+      "text": "with",
+      "start": 39.8375,
+      "end": 39.974999999999994
+    },
+    {
+      "text": "structure",
+      "start": 39.974999999999994,
+      "end": 40.449999999999996
+    },
+    {
+      "text": "and",
+      "start": 40.449999999999996,
+      "end": 40.574999999999996
+    },
+    {
+      "text": "thoughtful",
+      "start": 40.574999999999996,
+      "end": 40.949999999999996
+    },
+    {
+      "text": "design.",
+      "start": 40.949999999999996,
+      "end": 41.875
+    },
+    {
+      "text": "Just",
+      "start": 42.175,
+      "end": 42.46249999999999
+    },
+    {
+      "text": "as",
+      "start": 42.46249999999999,
+      "end": 42.599999999999994
+    },
+    {
+      "text": "design",
+      "start": 42.599999999999994,
+      "end": 42.974999999999994
+    },
+    {
+      "text": "patterns",
+      "start": 42.974999999999994,
+      "end": 43.46249999999999
+    },
+    {
+      "text": "revolutionized",
+      "start": 43.46249999999999,
+      "end": 44.262499999999996
+    },
+    {
+      "text": "software",
+      "start": 44.262499999999996,
+      "end": 44.71249999999999
+    },
+    {
+      "text": "engineering",
+      "start": 44.71249999999999,
+      "end": 45.512499999999996
+    },
+    {
+      "text": "by",
+      "start": 45.512499999999996,
+      "end": 45.675
+    },
+    {
+      "text": "providing",
+      "start": 45.675,
+      "end": 46.137499999999996
+    },
+    {
+      "text": "a",
+      "start": 46.137499999999996,
+      "end": 46.21249999999999
+    },
+    {
+      "text": "common",
+      "start": 46.21249999999999,
+      "end": 46.574999999999996
+    },
+    {
+      "text": "language",
+      "start": 46.574999999999996,
+      "end": 47.02499999999999
+    },
+    {
+      "text": "and",
+      "start": 47.02499999999999,
+      "end": 47.14999999999999
+    },
+    {
+      "text": "reusable",
+      "start": 47.14999999999999,
+      "end": 47.724999999999994
+    },
+    {
+      "text": "solutions",
+      "start": 47.724999999999994,
+      "end": 48.24999999999999
+    },
+    {
+      "text": "to",
+      "start": 48.24999999999999,
+      "end": 48.349999999999994
+    },
+    {
+      "text": "common",
+      "start": 48.349999999999994,
+      "end": 48.675
+    },
+    {
+      "text": "problems,",
+      "start": 48.675,
+      "end": 49.574999999999996
+    },
+    {
+      "text": "the",
+      "start": 49.574999999999996,
+      "end": 49.7375
+    },
+    {
+      "text": "agentic",
+      "start": 49.7375,
+      "end": 50.199999999999996
+    },
+    {
+      "text": "patterns",
+      "start": 50.199999999999996,
+      "end": 50.637499999999996
+    },
+    {
+      "text": "in",
+      "start": 50.637499999999996,
+      "end": 50.71249999999999
+    },
+    {
+      "text": "this",
+      "start": 50.71249999999999,
+      "end": 50.87499999999999
+    },
+    {
+      "text": "book",
+      "start": 50.87499999999999,
+      "end": 51.12499999999999
+    },
+    {
+      "text": "will",
+      "start": 51.12499999999999,
+      "end": 51.2375
+    },
+    {
+      "text": "be",
+      "start": 51.2375,
+      "end": 51.37499999999999
+    },
+    {
+      "text": "foundational",
+      "start": 51.37499999999999,
+      "end": 52.074999999999996
+    },
+    {
+      "text": "for",
+      "start": 52.074999999999996,
+      "end": 52.199999999999996
+    },
+    {
+      "text": "building",
+      "start": 52.199999999999996,
+      "end": 52.55
+    },
+    {
+      "text": "robust,",
+      "start": 52.55,
+      "end": 53.287499999999994
+    },
+    {
+      "text": "scalable,",
+      "start": 53.287499999999994,
+      "end": 53.99999999999999
+    },
+    {
+      "text": "and",
+      "start": 53.99999999999999,
+      "end": 54.12499999999999
+    },
+    {
+      "text": "reliable",
+      "start": 54.12499999999999,
+      "end": 54.699999999999996
+    },
+    {
+      "text": "intelligent",
+      "start": 54.699999999999996,
+      "end": 55.27499999999999
+    },
+    {
+      "text": "systems.",
+      "start": 55.27499999999999,
+      "end": 56.224999999999994
+    },
+    {
+      "text": "The",
+      "start": 56.525,
+      "end": 56.599999999999994
+    },
+    {
+      "text": "metaphor",
+      "start": 56.599999999999994,
+      "end": 57.0875
+    },
+    {
+      "text": "of",
+      "start": 57.0875,
+      "end": 57.162499999999994
+    },
+    {
+      "text": "a",
+      "start": 57.162499999999994,
+      "end": 57.224999999999994
+    },
+    {
+      "text": "\"canvas\"",
+      "start": 57.224999999999994,
+      "end": 57.925
+    },
+    {
+      "text": "for",
+      "start": 57.925,
+      "end": 58.05
+    },
+    {
+      "text": "building",
+      "start": 58.05,
+      "end": 58.43749999999999
+    },
+    {
+      "text": "agentic",
+      "start": 58.43749999999999,
+      "end": 58.87499999999999
+    },
+    {
+      "text": "systems",
+      "start": 58.87499999999999,
+      "end": 59.637499999999996
+    },
+    {
+      "text": "is",
+      "start": 59.637499999999996,
+      "end": 59.8
+    },
+    {
+      "text": "one",
+      "start": 59.8,
+      "end": 59.9625
+    },
+    {
+      "text": "that",
+      "start": 59.9625,
+      "end": 60.074999999999996
+    },
+    {
+      "text": "resonates",
+      "start": 60.074999999999996,
+      "end": 60.6125
+    },
+    {
+      "text": "deeply",
+      "start": 60.6125,
+      "end": 61.025
+    },
+    {
+      "text": "with",
+      "start": 61.025,
+      "end": 61.162499999999994
+    },
+    {
+      "text": "our",
+      "start": 61.162499999999994,
+      "end": 61.324999999999996
+    },
+    {
+      "text": "work",
+      "start": 61.324999999999996,
+      "end": 61.599999999999994
+    },
+    {
+      "text": "on",
+      "start": 61.599999999999994,
+      "end": 61.81249999999999
+    },
+    {
+      "text": "Google's",
+      "start": 61.81249999999999,
+      "end": 62.199999999999996
+    },
+    {
+      "text": "Vertex",
+      "start": 62.199999999999996,
+      "end": 62.637499999999996
+    },
+    {
+      "text": "AI",
+      "start": 62.637499999999996,
+      "end": 62.99999999999999
+    },
+    {
+      "text": "platform.",
+      "start": 62.99999999999999,
+      "end": 64.02499999999999
+    },
+    {
+      "text": "We",
+      "start": 64.3,
+      "end": 64.425
+    },
+    {
+      "text": "strive",
+      "start": 64.425,
+      "end": 64.8
+    },
+    {
+      "text": "to",
+      "start": 64.8,
+      "end": 64.9
+    },
+    {
+      "text": "provide",
+      "start": 64.9,
+      "end": 65.25
+    },
+    {
+      "text": "developers",
+      "start": 65.25,
+      "end": 65.8375
+    },
+    {
+      "text": "with",
+      "start": 65.8375,
+      "end": 65.9375
+    },
+    {
+      "text": "the",
+      "start": 65.9375,
+      "end": 66.025
+    },
+    {
+      "text": "most",
+      "start": 66.025,
+      "end": 66.3125
+    },
+    {
+      "text": "powerful",
+      "start": 66.3125,
+      "end": 66.9
+    },
+    {
+      "text": "and",
+      "start": 66.9,
+      "end": 67.0375
+    },
+    {
+      "text": "flexible",
+      "start": 67.0375,
+      "end": 67.575
+    },
+    {
+      "text": "canvas",
+      "start": 67.575,
+      "end": 68.3625
+    },
+    {
+      "text": "on",
+      "start": 68.3625,
+      "end": 68.525
+    },
+    {
+      "text": "which",
+      "start": 68.525,
+      "end": 68.725
+    },
+    {
+      "text": "to",
+      "start": 68.725,
+      "end": 68.85
+    },
+    {
+      "text": "build",
+      "start": 68.85,
+      "end": 69.0875
+    },
+    {
+      "text": "the",
+      "start": 69.0875,
+      "end": 69.175
+    },
+    {
+      "text": "next",
+      "start": 69.175,
+      "end": 69.45
+    },
+    {
+      "text": "generation",
+      "start": 69.45,
+      "end": 70.05
+    },
+    {
+      "text": "of",
+      "start": 70.05,
+      "end": 70.1875
+    },
+    {
+      "text": "AI",
+      "start": 70.1875,
+      "end": 70.55
+    },
+    {
+      "text": "applications.",
+      "start": 70.55,
+      "end": 71.775
+    },
+    {
+      "text": "This",
+      "start": 72.075,
+      "end": 72.275
+    },
+    {
+      "text": "book",
+      "start": 72.275,
+      "end": 72.5
+    },
+    {
+      "text": "provides",
+      "start": 72.5,
+      "end": 72.9125
+    },
+    {
+      "text": "the",
+      "start": 72.9125,
+      "end": 73.0
+    },
+    {
+      "text": "practical,",
+      "start": 73.0,
+      "end": 73.575
+    },
+    {
+      "text": "hands-on",
+      "start": 73.575,
+      "end": 74.1
+    },
+    {
+      "text": "guidance",
+      "start": 74.1,
+      "end": 74.7875
+    },
+    {
+      "text": "that",
+      "start": 74.7875,
+      "end": 74.9375
+    },
+    {
+      "text": "will",
+      "start": 74.9375,
+      "end": 75.0625
+    },
+    {
+      "text": "empower",
+      "start": 75.0625,
+      "end": 75.475
+    },
+    {
+      "text": "developers",
+      "start": 75.475,
+      "end": 76.1
+    },
+    {
+      "text": "to",
+      "start": 76.1,
+      "end": 76.225
+    },
+    {
+      "text": "use",
+      "start": 76.225,
+      "end": 76.45
+    },
+    {
+      "text": "that",
+      "start": 76.45,
+      "end": 76.7
+    },
+    {
+      "text": "canvas",
+      "start": 76.7,
+      "end": 77.125
+    },
+    {
+      "text": "to",
+      "start": 77.125,
+      "end": 77.2625
+    },
+    {
+      "text": "its",
+      "start": 77.2625,
+      "end": 77.4
+    },
+    {
+      "text": "full",
+      "start": 77.4,
+      "end": 77.625
+    },
+    {
+      "text": "potential.",
+      "start": 77.625,
+      "end": 78.6
+    },
+    {
+      "text": "By",
+      "start": 78.875,
+      "end": 79.025
+    },
+    {
+      "text": "exploring",
+      "start": 79.025,
+      "end": 79.55
+    },
+    {
+      "text": "patterns",
+      "start": 79.55,
+      "end": 80.0
+    },
+    {
+      "text": "from",
+      "start": 80.0,
+      "end": 80.175
+    },
+    {
+      "text": "prompt",
+      "start": 80.175,
+      "end": 80.4875
+    },
+    {
+      "text": "chaining",
+      "start": 80.4875,
+      "end": 80.875
+    },
+    {
+      "text": "and",
+      "start": 80.875,
+      "end": 81.0125
+    },
+    {
+      "text": "tool",
+      "start": 81.0125,
+      "end": 81.3
+    },
+    {
+      "text": "use",
+      "start": 81.3,
+      "end": 81.7125
+    },
+    {
+      "text": "to",
+      "start": 81.7125,
+      "end": 81.8625
+    },
+    {
+      "text": "agent-to-agent",
+      "start": 81.8625,
+      "end": 82.525
+    },
+    {
+      "text": "collaboration,",
+      "start": 82.525,
+      "end": 83.6125
+    },
+    {
+      "text": "self-correction,",
+      "start": 83.6125,
+      "end": 84.4375
+    },
+    {
+      "text": "safety",
+      "start": 84.4375,
+      "end": 84.825
+    },
+    {
+      "text": "and",
+      "start": 84.825,
+      "end": 84.95
+    },
+    {
+      "text": "guardrails,",
+      "start": 84.95,
+      "end": 85.875
+    },
+    {
+      "text": "this",
+      "start": 85.875,
+      "end": 86.075
+    },
+    {
+      "text": "book",
+      "start": 86.075,
+      "end": 86.3
+    },
+    {
+      "text": "offers",
+      "start": 86.3,
+      "end": 86.6125
+    },
+    {
+      "text": "a",
+      "start": 86.6125,
+      "end": 86.675
+    },
+    {
+      "text": "comprehensive",
+      "start": 86.675,
+      "end": 87.325
+    },
+    {
+      "text": "toolkit",
+      "start": 87.325,
+      "end": 87.75
+    },
+    {
+      "text": "for",
+      "start": 87.75,
+      "end": 87.9
+    },
+    {
+      "text": "any",
+      "start": 87.9,
+      "end": 88.125
+    },
+    {
+      "text": "developer",
+      "start": 88.125,
+      "end": 88.625
+    },
+    {
+      "text": "looking",
+      "start": 88.625,
+      "end": 88.9
+    },
+    {
+      "text": "to",
+      "start": 88.9,
+      "end": 89.025
+    },
+    {
+      "text": "build",
+      "start": 89.025,
+      "end": 89.3
+    },
+    {
+      "text": "sophisticated",
+      "start": 89.3,
+      "end": 90.0875
+    },
+    {
+      "text": "AI",
+      "start": 90.0875,
+      "end": 90.47500000000001
+    },
+    {
+      "text": "agents.",
+      "start": 90.47500000000001,
+      "end": 91.4
+    },
+    {
+      "text": "The",
+      "start": 91.7,
+      "end": 91.775
+    },
+    {
+      "text": "future",
+      "start": 91.775,
+      "end": 92.1125
+    },
+    {
+      "text": "of",
+      "start": 92.1125,
+      "end": 92.2375
+    },
+    {
+      "text": "AI",
+      "start": 92.2375,
+      "end": 92.725
+    },
+    {
+      "text": "will",
+      "start": 92.725,
+      "end": 92.8375
+    },
+    {
+      "text": "be",
+      "start": 92.8375,
+      "end": 92.975
+    },
+    {
+      "text": "defined",
+      "start": 92.975,
+      "end": 93.3625
+    },
+    {
+      "text": "by",
+      "start": 93.3625,
+      "end": 93.4875
+    },
+    {
+      "text": "the",
+      "start": 93.4875,
+      "end": 93.575
+    },
+    {
+      "text": "creativity",
+      "start": 93.575,
+      "end": 94.325
+    },
+    {
+      "text": "and",
+      "start": 94.325,
+      "end": 94.45
+    },
+    {
+      "text": "ingenuity",
+      "start": 94.45,
+      "end": 95.0375
+    },
+    {
+      "text": "of",
+      "start": 95.0375,
+      "end": 95.125
+    },
+    {
+      "text": "developers",
+      "start": 95.125,
+      "end": 96.0125
+    },
+    {
+      "text": "who",
+      "start": 96.0125,
+      "end": 96.15
+    },
+    {
+      "text": "can",
+      "start": 96.15,
+      "end": 96.325
+    },
+    {
+      "text": "build",
+      "start": 96.325,
+      "end": 96.575
+    },
+    {
+      "text": "these",
+      "start": 96.575,
+      "end": 96.8
+    },
+    {
+      "text": "intelligent",
+      "start": 96.8,
+      "end": 97.375
+    },
+    {
+      "text": "systems.",
+      "start": 97.375,
+      "end": 98.325
+    },
+    {
+      "text": "\"Agentic",
+      "start": 98.6,
+      "end": 99.1
+    },
+    {
+      "text": "Design",
+      "start": 99.1,
+      "end": 99.45
+    },
+    {
+      "text": "Patterns\"",
+      "start": 99.45,
+      "end": 100.1875
+    },
+    {
+      "text": "is",
+      "start": 100.1875,
+      "end": 100.3125
+    },
+    {
+      "text": "an",
+      "start": 100.3125,
+      "end": 100.4375
+    },
+    {
+      "text": "indispensable",
+      "start": 100.4375,
+      "end": 101.25
+    },
+    {
+      "text": "resource",
+      "start": 101.25,
+      "end": 101.75
+    },
+    {
+      "text": "that",
+      "start": 101.75,
+      "end": 101.8875
+    },
+    {
+      "text": "will",
+      "start": 101.8875,
+      "end": 102.0
+    },
+    {
+      "text": "help",
+      "start": 102.0,
+      "end": 102.1875
+    },
+    {
+      "text": "to",
+      "start": 102.1875,
+      "end": 102.3
+    },
+    {
+      "text": "unlock",
+      "start": 102.3,
+      "end": 102.75
+    },
+    {
+      "text": "that",
+      "start": 102.75,
+      "end": 102.925
+    },
+    {
+      "text": "creativity.",
+      "start": 102.925,
+      "end": 104.075
+    },
+    {
+      "text": "It",
+      "start": 104.35,
+      "end": 104.46249999999999
+    },
+    {
+      "text": "provides",
+      "start": 104.46249999999999,
+      "end": 104.83749999999999
+    },
+    {
+      "text": "the",
+      "start": 104.83749999999999,
+      "end": 104.975
+    },
+    {
+      "text": "essential",
+      "start": 104.975,
+      "end": 105.425
+    },
+    {
+      "text": "knowledge",
+      "start": 105.425,
+      "end": 105.85
+    },
+    {
+      "text": "and",
+      "start": 105.85,
+      "end": 105.975
+    },
+    {
+      "text": "practical",
+      "start": 105.975,
+      "end": 106.46249999999999
+    },
+    {
+      "text": "examples",
+      "start": 106.46249999999999,
+      "end": 107.075
+    },
+    {
+      "text": "to",
+      "start": 107.075,
+      "end": 107.2
+    },
+    {
+      "text": "not",
+      "start": 107.2,
+      "end": 107.3625
+    },
+    {
+      "text": "only",
+      "start": 107.3625,
+      "end": 107.64999999999999
+    },
+    {
+      "text": "understand",
+      "start": 107.64999999999999,
+      "end": 108.1625
+    },
+    {
+      "text": "the",
+      "start": 108.1625,
+      "end": 108.25
+    },
+    {
+      "text": "\"what\"",
+      "start": 108.25,
+      "end": 108.6
+    },
+    {
+      "text": "and",
+      "start": 108.6,
+      "end": 108.75
+    },
+    {
+      "text": "\"why\"",
+      "start": 108.75,
+      "end": 109.1125
+    },
+    {
+      "text": "of",
+      "start": 109.1125,
+      "end": 109.21249999999999
+    },
+    {
+      "text": "agentic",
+      "start": 109.21249999999999,
+      "end": 109.64999999999999
+    },
+    {
+      "text": "systems,",
+      "start": 109.64999999999999,
+      "end": 110.475
+    },
+    {
+      "text": "but",
+      "start": 110.475,
+      "end": 110.6125
+    },
+    {
+      "text": "also",
+      "start": 110.6125,
+      "end": 110.95
+    },
+    {
+      "text": "the",
+      "start": 110.95,
+      "end": 111.05
+    },
+    {
+      "text": "\"how.\"",
+      "start": 111.05,
+      "end": 111.875
+    },
+    {
+      "text": "I",
+      "start": 112.175,
+      "end": 112.3125
+    },
+    {
+      "text": "am",
+      "start": 112.3125,
+      "end": 112.46249999999999
+    },
+    {
+      "text": "thrilled",
+      "start": 112.46249999999999,
+      "end": 112.77499999999999
+    },
+    {
+      "text": "to",
+      "start": 112.77499999999999,
+      "end": 112.89999999999999
+    },
+    {
+      "text": "see",
+      "start": 112.89999999999999,
+      "end": 113.1
+    },
+    {
+      "text": "this",
+      "start": 113.1,
+      "end": 113.3
+    },
+    {
+      "text": "book",
+      "start": 113.3,
+      "end": 113.64999999999999
+    },
+    {
+      "text": "in",
+      "start": 113.64999999999999,
+      "end": 113.7375
+    },
+    {
+      "text": "the",
+      "start": 113.7375,
+      "end": 113.82499999999999
+    },
+    {
+      "text": "hands",
+      "start": 113.82499999999999,
+      "end": 114.1625
+    },
+    {
+      "text": "of",
+      "start": 114.1625,
+      "end": 114.2375
+    },
+    {
+      "text": "the",
+      "start": 114.2375,
+      "end": 114.32499999999999
+    },
+    {
+      "text": "developer",
+      "start": 114.32499999999999,
+      "end": 114.875
+    },
+    {
+      "text": "community.",
+      "start": 114.875,
+      "end": 115.85
+    },
+    {
+      "text": "The",
+      "start": 116.12499999999999,
+      "end": 116.19999999999999
+    },
+    {
+      "text": "patterns",
+      "start": 116.19999999999999,
+      "end": 116.725
+    },
+    {
+      "text": "and",
+      "start": 116.725,
+      "end": 116.85
+    },
+    {
+      "text": "principles",
+      "start": 116.85,
+      "end": 117.37499999999999
+    },
+    {
+      "text": "within",
+      "start": 117.37499999999999,
+      "end": 117.63749999999999
+    },
+    {
+      "text": "these",
+      "start": 117.63749999999999,
+      "end": 117.85
+    },
+    {
+      "text": "pages",
+      "start": 117.85,
+      "end": 118.51249999999999
+    },
+    {
+      "text": "will",
+      "start": 118.51249999999999,
+      "end": 118.71249999999999
+    },
+    {
+      "text": "undoubtedly",
+      "start": 118.71249999999999,
+      "end": 119.37499999999999
+    },
+    {
+      "text": "accelerate",
+      "start": 119.37499999999999,
+      "end": 119.96249999999999
+    },
+    {
+      "text": "the",
+      "start": 119.96249999999999,
+      "end": 120.04999999999998
+    },
+    {
+      "text": "development",
+      "start": 120.04999999999998,
+      "end": 120.57499999999999
+    },
+    {
+      "text": "of",
+      "start": 120.57499999999999,
+      "end": 120.73749999999998
+    },
+    {
+      "text": "innovative",
+      "start": 120.73749999999998,
+      "end": 121.32499999999999
+    },
+    {
+      "text": "and",
+      "start": 121.32499999999999,
+      "end": 121.44999999999999
+    },
+    {
+      "text": "impactful",
+      "start": 121.44999999999999,
+      "end": 122.08749999999999
+    },
+    {
+      "text": "AI",
+      "start": 122.08749999999999,
+      "end": 122.44999999999999
+    },
+    {
+      "text": "applications",
+      "start": 122.44999999999999,
+      "end": 123.56249999999999
+    },
+    {
+      "text": "that",
+      "start": 123.56249999999999,
+      "end": 123.71249999999999
+    },
+    {
+      "text": "will",
+      "start": 123.71249999999999,
+      "end": 123.86249999999998
+    },
+    {
+      "text": "shape",
+      "start": 123.86249999999998,
+      "end": 124.08749999999999
+    },
+    {
+      "text": "our",
+      "start": 124.08749999999999,
+      "end": 124.225
+    },
+    {
+      "text": "world",
+      "start": 124.225,
+      "end": 124.54999999999998
+    },
+    {
+      "text": "for",
+      "start": 124.54999999999998,
+      "end": 124.67499999999998
+    },
+    {
+      "text": "years",
+      "start": 124.67499999999998,
+      "end": 124.99999999999999
+    },
+    {
+      "text": "to",
+      "start": 124.99999999999999,
+      "end": 125.12499999999999
+    },
+    {
+      "text": "come.",
+      "start": 125.12499999999999,
+      "end": 125.87499999999999
+    },
+    {
+      "text": "Saurabh",
+      "start": 126.19999999999999,
+      "end": 126.52499999999999
+    },
+    {
+      "text": "Tiwary",
+      "start": 126.52499999999999,
+      "end": 126.85
+    },
+    {
+      "text": "VP",
+      "start": 126.85,
+      "end": 127.27499999999999
+    },
+    {
+      "text": "&",
+      "start": 127.27499999999999,
+      "end": 127.39999999999999
+    },
+    {
+      "text": "General",
+      "start": 127.39999999999999,
+      "end": 127.725
+    },
+    {
+      "text": "Manager,",
+      "start": 127.725,
+      "end": 128.375
+    },
+    {
+      "text": "CloudAI",
+      "start": 128.375,
+      "end": 128.9125
+    },
+    {
+      "text": "@",
+      "start": null,
+      "end": null
+    },
+    {
+      "text": "Google",
+      "start": null,
+      "end": null
+    }
+  ]
+}
